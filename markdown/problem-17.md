@@ -12,7 +12,7 @@ Takip eden _**N**_ satırda ise bu kelimeler verilmiştir.
 ## Output Format
 Kelimelerin sıralanmış halini satır satır yazdırınız.
 
-Son satırda ise verilen inputa göre indexlerini yazdırınız
+Son satırda ise verilen inputa göre indexlerini yazdırınız. (Eğer aynı olan iki string var ise önce küçük numaralı indeksi bastırmalısınız.)
 
 ## Constraints
 $0 \le N \le 4000$
