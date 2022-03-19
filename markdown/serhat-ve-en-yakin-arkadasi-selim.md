@@ -9,6 +9,10 @@ Serhat, farklı bir şehirde yaşayan ve aralarında $N$ birim mesafe olan arka
 ## Output Format
 Serhat ile Selim'in buluşma olasılığını belirten bir reel sayı (real number). Yazdırırken virgülden sonra tam olarak 6 basamak olması gerekmektedir.
 
+## Constraints
+- $1 \leq t \leq 100$
+- $1 \leq N \leq 10^{5}$
+
 ## Sample Input 1
 ```
 3
@@ -30,3 +34,16 @@ Oyuncağın hangi elinde olduğunu doğru bilirse 2, bilemezse 1 adım gittiğin
 Hangi elinde olduğunu doğru bilme olasılığı $1/2$ ve bilememe olasılığı da $1/2$ olduğu için
 
 Tam olarak 3. noktada duran arkadaşına ulaşma olasılığı : $$( 0.5 * 0.5 * 0.5 )+ ( 0.5 * 0.5 ) + ( 0.5 * 0.5 ) = 0.125000 + 0.250000 + 0.250000 = 0.625000$$
+
+## Sample Input 2
+```
+2
+3
+8
+````
+
+## Sample Output 2
+```
+0.625000
+0.667969
+```

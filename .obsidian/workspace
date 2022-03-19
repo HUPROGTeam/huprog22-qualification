@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "1d8c4ddee13aa60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0535a6186ccc3965",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "markdown/serhat-ve-en-yakin-arkadasi-selim.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b841bdf4cf0f5d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "357920157202c676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd24b95d081d3701",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff576fd9828bd9ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c837c4ff9181e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a484c84c62bcc2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b937ad47e0e03d44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "markdown/serhat-ve-en-yakin-arkadasi-selim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0535a6186ccc3965",
+  "lastOpenFiles": [
+    "markdown/serhat-ve-en-yakin-arkadasi-selim.md",
+    "markdown/problem-17.md",
+    "markdown/attack-on-shiganshina.md",
+    "markdown/cadilar-bayrami.md",
+    "markdown/garip-bowling.md",
+    "markdown/huprog-sayisi.md",
+    "22logo.png"
+  ]
+}
