@@ -7,8 +7,12 @@
         "id": "60417d765a165ab0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "markdown/problem-17.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markdown/problem-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +90,7 @@
   "active": "60417d765a165ab0",
   "lastOpenFiles": [
     "markdown/problem-17.md",
+    "markdown/zero-density.md",
     "markdown/serhat-ve-en-yakin-arkadasi-selim.md",
     "markdown/attack-on-shiganshina.md",
     "markdown/cadilar-bayrami.md",
